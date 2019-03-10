@@ -1,0 +1,9 @@
+﻿<Window x:Class="Assertion.Brook"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="ClassA" Margin="69,69,375,221"  Click="ClassA_Click" />
+        <Button Content="ClassB" Margin="325,69,119,221"  Click="ClassB_Click" />
+    </Grid>
+</Window>
